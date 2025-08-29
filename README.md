@@ -26,8 +26,8 @@ It provides a **modern, responsive, and user-friendly design** for showcasing me
 ---
 
 ## Live Demo  
-- 🔗 [GitHub Pages](https://anishfathima08.github.io/SpicyHut/)  
-- 🔗 [Netlify](https://spicyhut-saf.netlify.app/)  
+- 🔗 [GitHub Link](https://anishfathima08.github.io/SpicyHut/)  
+- 🔗 [Netlify Link](https://spicyhut-saf.netlify.app/)  
 
 ---
 
