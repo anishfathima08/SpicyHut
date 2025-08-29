@@ -42,5 +42,5 @@ To run this project locally, follow the steps below:
 
   3. Enjoy exploring the SpicyHut website!
 
-Thank you for visiting SpicyHut! 🚗
+Thank you for visiting SpicyHut! 🌶️
 
