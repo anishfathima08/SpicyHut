@@ -1,4 +1,4 @@
-# Spicy Hut  
+# 🌶️ Spicy Hut  
 
 Welcome to **Spicy Hut**! 🍴  
 
