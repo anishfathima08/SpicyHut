@@ -8,11 +8,11 @@ It provides a **modern, responsive, and user-friendly design** for showcasing me
 ---
 
 ## Features  
-- ✅ Fully **responsive design** (mobile, tablet, desktop)  
-- ✅ **Bootstrap 5** grid system & components for faster UI  
-- ✅ **AOS (Animate On Scroll)** for smooth animations  
-- ✅ Interactive elements powered by **JavaScript**  
-- ✅ Simple, clean, and attractive restaurant landing page  
+- Fully **responsive design** (mobile, tablet, desktop)  
+- **Bootstrap 5** grid system & components for faster UI  
+- **AOS (Animate On Scroll)** for smooth animations  
+- Interactive elements powered by **JavaScript**  
+- Simple, clean, and attractive restaurant landing page  
 
 ---
 
